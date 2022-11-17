@@ -1,0 +1,64 @@
+nav{
+width: 100vw;
+height: 10vh;
+display: flex;
+justify-content: space-between;
+}
+ul {
+    list-style: none;
+}
+.logo{
+    font-weight: bold;
+    color: black;  
+}
+a{
+    text-decoration: none;
+}
+.subMenu {
+    display: flex;
+    pointer-events: painted;
+}
+li {
+    margin: 30px;
+    
+}
+h1 {
+        font-family:"Newsreader";
+        font-style: normal;
+            font-weight: 600;
+
+}
+.imagen{
+    height: 550px;
+    width: 500px;
+    margin-top: 100px;
+    z-index:1;  
+    background-color:#e32362,
+}
+.baner1{
+margin-top: 90px;
+display: flex;
+justify-content: center;
+}
+.baner2{
+display: flex;
+    
+}
+.texto-baner1{
+    margin-top: 250px;
+        margin-right: 250px;
+    }
+imagen-baner1{
+    margin-right: 550px;
+    margin-top: 200px;
+    
+}
+
+h2{
+    margin-left: 200px;
+        margin-top: 400px;
+    }
+.buton f5{
+    margin-top: 20px;
+        margin-left: 200px;
+}
